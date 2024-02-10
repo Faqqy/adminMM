@@ -1,0 +1,7 @@
+.topBar {
+    position: absolute;
+    width: calc(100% - 300px);
+    top: 0;
+    right: 0;
+    padding-bottom: 50px;
+}

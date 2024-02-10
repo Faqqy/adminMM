@@ -1,0 +1,23 @@
+.sideBar {
+    position: relative;
+    width: 300px;
+    height: 100vh;
+    background-color: #fff;
+}
+
+.mainMenu {
+    margin-top: 40px;
+}
+
+.bugReportButton {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 30px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.css-19v6clq-MuiPaper-root {
+    box-shadow: none!important;
+}
